@@ -103,4 +103,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/gongfanzhao1029/gongfanzhao1029.github.io.git
-  branch: main
+  branch: master
